@@ -1,16 +1,23 @@
 Pierre Séroul
 
-I am the Product Owner of SEED (Software for Energy Efficiency and Decarbonization), the BDS R&D Team dedicated to decarbonization. 
+I am passionate by anything related to green IT, green AI, social and environmental impact of IT and AI. 
+On my profile you will find public resources and ideas with different levels of maturity. 
 
-The key solutions you will find in our team: 
-- services to monitor power consumption and transform it into CO2
-- services to reduce power consumption and/or CO2 emisssions for cloud, clusters and HPC
+# Work & ideas
 
-To reach me: pierre.seroul@atos.net
+Here are the public repo I try to build: 
+### [AI inference footprint](https://github.com/pseroul/ai_inference_footprint)
+A python script to run several Ollama inference with different models and retrieve overall analysis and time series monitoring using Alumet.
 
-For support on our solutions: dl-seed-support@atos.net
+### [IT Aging](https://github.com/pseroul/simu_it_aging)
+An interface that simulates the SCI (https://sci.greensoftware.foundation/) impact of servers (both energy usage & embeddings) depending on the lifetime of the servers. 
+Asumptions are taken to simulate efficiency gain through servers versions based on Green500. 
+Servers location modifies the carbon intensity and thus the footprint and optimal lifetime of the servers.
 
-Our public Team Channel: https://teams.microsoft.com/l/team/19%3aW4_qDDIcJk1F_ZxNJxGKTm_Vkzwe7NOgsMs_KnQeHMc1%40thread.tacv2/conversations?groupId=44a04361-8376-4f45-b243-cb10eee53367&tenantId=33440fc6-b7c7-412c-bb73-0e70b0198d5a
+# Others works: 
+Some awesome project to use: 
+- **Alumet**: high frequency true monitoring for IT energy - https://github.com/alumet-dev/alumet
+
 
 <!---
 pseroul/pseroul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
