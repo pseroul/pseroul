@@ -22,6 +22,12 @@ Metrics: SCI
 Some awesome project to use: 
 - **Alumet**: high frequency true monitoring for IT energy - https://github.com/alumet-dev/alumet
 
+# Tools
+
+### [Conf pictures to text](https://github.com/pseroul/pic_to_text_converter)
+Input pictures from conference and extract texts. 
+
+# Notes from conferences
 
 <!---
 pseroul/pseroul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
