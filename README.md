@@ -14,6 +14,10 @@ An interface that simulates the SCI (https://sci.greensoftware.foundation/) impa
 Asumptions are taken to simulate efficiency gain through servers versions based on Green500. 
 Servers location modifies the carbon intensity and thus the footprint and optimal lifetime of the servers.
 
+### [Virtualization simulation](https://github.com/pseroul/simu_virtu_at_scale)
+Simulate when it becomes an advantage to move to virtualization to save IT footprint. Myth to bust: moving from on-prem to cloud allowed to decrease IT footprint cause you do not need to provision for peaks of activities. 
+Metrics: SCI
+
 # Others works: 
 Some awesome project to use: 
 - **Alumet**: high frequency true monitoring for IT energy - https://github.com/alumet-dev/alumet
