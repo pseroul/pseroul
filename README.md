@@ -29,9 +29,9 @@ Input pictures from conference and extract texts.
 
 # Conferences
 Here are some of the talks on recent years:
-2025-12-09: GreenIO, Paris "Scaling Up Environmental Assessment: how Eviden uses Resilio DB" Amael Parreaux-Ey, Pierre Seroul (https://greenio.tech/)
-2025-11-27 JRAF:  table ronde « L’IA au delà de l’efficacité » Alice Drahon, Marina Reyboz, Ana Semedo, Pierre Séroul Modération : Laurent Lefèvre (https://jraf-2025.sciencesconf.org/)
-2025 EuroHPC: "Breaking the Dogmas: Redefining the System Software Stack for Next-Gen HPC Applications and Architectures" Martin Schulz, Manolis Marazakis, Venkatesh Kannan, Jesus Carretero Perez, Pierre Seroul (https://www.eurohpcsummit.eu/programme)
+- 2025-12-09: GreenIO, Paris "Scaling Up Environmental Assessment: how Eviden uses Resilio DB" Amael Parreaux-Ey, Pierre Seroul (https://greenio.tech/)
+- 2025-11-27 JRAF:  table ronde « L’IA au delà de l’efficacité » Alice Drahon, Marina Reyboz, Ana Semedo, Pierre Séroul Modération : Laurent Lefèvre (https://jraf-2025.sciencesconf.org/)
+- 2025 EuroHPC: "Breaking the Dogmas: Redefining the System Software Stack for Next-Gen HPC Applications and Architectures" Martin Schulz, Manolis Marazakis, Venkatesh Kannan, Jesus Carretero Perez, Pierre Seroul (https://www.eurohpcsummit.eu/programme)
 
 
 <!---
