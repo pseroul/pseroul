@@ -9,6 +9,10 @@ Here are the public repo I try to build:
 ### [AI inference footprint](https://github.com/pseroul/ai_inference_footprint)
 A python script to run several Ollama inference with different models and retrieve overall analysis and time series monitoring using Alumet.
 
+### [Embedded Carbon Estimation](https://github.com/pseroul/embedded_footprint)
+A python script that detect your own machine configuration and send a standard request to Resilio to obtain your embedded footprint. 
+The footprint is then nicely printed.
+
 ### [IT Aging](https://github.com/pseroul/simu_it_aging)
 An interface that simulates the SCI (https://sci.greensoftware.foundation/) impact of servers (both energy usage & embeddings) depending on the lifetime of the servers. 
 Asumptions are taken to simulate efficiency gain through servers versions based on Green500. 
