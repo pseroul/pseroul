@@ -5,7 +5,7 @@ On my profile you will find public resources and ideas with different levels of 
 
 # Work & ideas
 
-Here are the public repo I try to build: 
+Here are the repo I try to build: 
 ### [AI inference footprint](https://github.com/pseroul/ai_inference_footprint)
 A python script to run several Ollama inference with different models and retrieve overall analysis and time series monitoring using Alumet.
 
@@ -26,7 +26,8 @@ Simulate when it becomes an advantage to move to virtualization to save IT footp
 Metrics: SCI
 
 # Levers list
-Necessary to build roadmaps, conference talks, ... List of levers and tags to rapidly build diagrams.
+### [Ideas & Topics](https://github.com/pseroul/ideas_topics)
+Necessary to build roadmaps, conference talks, ... List of ideas and topics, with associated smart navigation tool to rapidly build plan, relationship graphs, ...
 
 
 # Others works: 
