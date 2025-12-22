@@ -18,7 +18,7 @@ An interface that simulates the SCI (https://sci.greensoftware.foundation/) impa
 Asumptions are taken to simulate efficiency gain through servers versions based on Green500. 
 Servers location modifies the carbon intensity and thus the footprint and optimal lifetime of the servers.
 
-### [Carbon-Aware impact on infrastructures]([https://github.com/pseroul/carbon_aware_infra_impact])
+### [Carbon-Aware impact on infrastructures](https://github.com/pseroul/carbon_aware_infra_impact)
 Simulate the effect on datacenter size of carbon-aware scheduling (both temporal and spacial)
 
 ### [Virtualization simulation](https://github.com/pseroul/simu_virtu_at_scale)
