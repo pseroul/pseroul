@@ -25,6 +25,10 @@ Simulate the effect on datacenter size of carbon-aware scheduling (both temporal
 Simulate when it becomes an advantage to move to virtualization to save IT footprint. Myth to bust: moving from on-prem to cloud allowed to decrease IT footprint cause you do not need to provision for peaks of activities. 
 Metrics: SCI
 
+# Levers list
+Necessary to build roadmaps, conference talks, ... List of levers and tags to rapidly build diagrams.
+
+
 # Others works: 
 Some awesome project to use: 
 - **Alumet**: high frequency true monitoring for IT energy - https://github.com/alumet-dev/alumet
