@@ -26,8 +26,8 @@ Simulate when it becomes an advantage to move to virtualization to save IT footp
 Metrics: SCI
 
 # Levers list
-### [Ideas & Topics](https://github.com/pseroul/ideas_topics)
-Necessary to build roadmaps, conference talks, ... List of ideas and topics, with associated smart navigation tool to rapidly build plan, relationship graphs, ...
+### [Consensia](https://github.com/pseroul/consensia)
+Necessary to build roadmaps, conference talks, ... Application that list ideas and topics, with associated smart navigation tool to rapidly build plan, relationship graphs, ...
 
 
 # Others works: 
@@ -41,6 +41,7 @@ Input pictures from conference and extract texts.
 
 # Conferences
 Here are some of the talks on recent years:
+- 2026-: Transnumériques de Rennes, HPC, IA et sobriété numérique, des enjeux compatibles ?" (https://inria.invityou.com/trans-numeriques2026)
 - 2025-12-09: GreenIO, Paris "Scaling Up Environmental Assessment: how Eviden uses Resilio DB" Amael Parreaux-Ey, Pierre Seroul (https://greenio.tech/)
 - 2025-11-27 JRAF:  table ronde « L’IA au delà de l’efficacité » Alice Drahon, Marina Reyboz, Ana Semedo, Pierre Séroul Modération : Laurent Lefèvre (https://jraf-2025.sciencesconf.org/)
 - 2025 EuroHPC: "Breaking the Dogmas: Redefining the System Software Stack for Next-Gen HPC Applications and Architectures" Martin Schulz, Manolis Marazakis, Venkatesh Kannan, Jesus Carretero Perez, Pierre Seroul (https://www.eurohpcsummit.eu/programme)
